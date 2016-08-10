@@ -1,0 +1,9 @@
+Keith Gaughan <https://stereochro.me/>:
+
+ * Original author and maintainer.
+
+
+Thanks to:
+
+ * Raphaël Vinot <https://github.com/Rafiot>, who wrote the original uwhoisd
+   Redis cache that inspired this.

@@ -1,0 +1,2 @@
+include LICENSE ChangeLog AUTHORS
+prune tests

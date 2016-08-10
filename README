@@ -1,0 +1,9 @@
+===================
+uwhoisd-redis-cache
+===================
+
+A Redis cache plugin for uwhoisd
+
+Please see the uwhoisd__ repository for documentation.
+
+.. __: https://github.com/kgaughan/uwhoisd
