@@ -7,3 +7,10 @@ A Redis cache plugin for uwhoisd
 Please see the uwhoisd__ repository for documentation.
 
 .. __: https://github.com/kgaughan/uwhoisd
+
+Installation
+============
+
+``python setup.py install``
+
+Replace ``extra/conf.d/cache.ini`` in your uwhoisd directory by ``example/cache.ini`` in this one.
